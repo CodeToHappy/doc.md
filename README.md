@@ -1,0 +1,12 @@
+# doc.md
+## 激荡入职学习
+1. dubbo学习笔记
+2. 接口文档逻辑整理
+3. redis
+4. JDBC
+5. Linux
+6. java注解和反射
+7. springboot-projects
+8. JDBCTemplate
+9. springCloud
+10. Zookeeper

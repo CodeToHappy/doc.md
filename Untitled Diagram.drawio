@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2020-12-22T07:20:30.616Z" agent="5.0 (Windows)" etag="RFKIQxUyNpEFGNedYeK3" version="14.1.1" type="github">
+  <diagram id="WjT2VWIGsNGZAtrA2MyR" name="Page-1">
+    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bxfH2cWaXVZJ8u3SqGlL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bxfH2cWaXVZJ8u3SqGlL-2" target="bxfH2cWaXVZJ8u3SqGlL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxfH2cWaXVZJ8u3SqGlL-2" value="扣项" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxfH2cWaXVZJ8u3SqGlL-3" value="123" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
